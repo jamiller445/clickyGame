@@ -1,0 +1,26 @@
+.title {
+  width: 33%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #2A77AE;
+  margin-bottom: 50px;
+  float: left;
+}
+
+.score-report {
+  margin-top: 1.5rem;
+  text-align: right;
+  width:33%;
+  float: right;
+}
+
+.title-area-left {
+  width: 33%;
+  float: left;
+  height: 20px;
+}
+
+.top {
+  width: 100%;
+}
